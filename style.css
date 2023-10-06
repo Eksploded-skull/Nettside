@@ -7,7 +7,7 @@ html, body{
     height: 100%;
   }
   body{
-    min-height: 100%;
+    height: 100%;
   }
 
 
@@ -21,7 +21,7 @@ body {
 
 }
 .Meny{
-    background-color: rgb(56, 118, 211);
+    background-color: #6096BA;
     
     width: 100%;
     height: 90px;
@@ -31,39 +31,46 @@ body {
     
 }
  .Meny1{
-    background-color:rgb(70, 123, 202) ;
+    background-color: #6096BA;
     width: 20%;
     margin: 0px;
     margin-left: 20%;
  }
  .Meny2{
-    background-color:rgb(70, 123, 202) ;
+    background-color: #6096BA;
     width: 20%;
     margin: 0px;
  }
  .Meny3{
-    background-color:rgb(70, 123, 202) ;
+    background-color: #6096BA;
     width: 20%;
     margin: 0px;
  }
  .Meny4{
-    background-color:rgb(70, 123, 202) ;
+    background-color: #6096BA;
     width: 20%;
     margin: 0px;
  }
 .boks2{
-    background-color: aquamarine;
+    background-color: #A3CEF1;
     width: 530px;
     height: 370px;
     justify-self: center;
     align-self: center;
     margin-top: 100px;
     margin-left: 100px;
+    justify-content: flex-end;
+}
+.boks3{
+  background-color: #A3CEF1;
+  width: 530px;
+  height: 370px;
+
 }
 .Bigboks{
-  background-color: brown;
-    width: 2000px;
-    height: 800px;
+  background-color: rgb(231, 236, 239)<
+    width: 100%;
+    height: 100%;
 
 
 }
