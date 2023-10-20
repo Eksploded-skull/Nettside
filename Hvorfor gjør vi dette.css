@@ -1,0 +1,15 @@
+.Meny{
+    background-color: #6096BA;
+    
+    width: 20%;
+    height: 90px;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;        
+}
+ .Meny1{
+    background-color: #6096BA;
+    width: 100%;
+    height: 100%;
+    margin: 0px;   
+ }
